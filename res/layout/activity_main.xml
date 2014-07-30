@@ -34,7 +34,9 @@
     <RelativeLayout
         android:id="@+id/list_slidermenu"
         android:layout_width="240dp"
+        android:background="#000000"
         android:layout_height="match_parent"
-        android:layout_gravity="start" />
+        android:layout_gravity="start" >
+        </RelativeLayout>
 
 </android.support.v4.widget.DrawerLayout>
